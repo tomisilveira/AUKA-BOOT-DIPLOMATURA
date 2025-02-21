@@ -1,0 +1,7 @@
+gradio
+pdfplumber
+sentence-transformers
+scikit-learn
+requests
+python-dotenv
+google-generativeai
